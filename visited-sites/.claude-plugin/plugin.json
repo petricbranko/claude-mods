@@ -1,0 +1,1 @@
+{ "name": "visited-sites", "version": "0.1.0", "description": "Tracks websites Claude Code visits this session; count in the status line, full list in a pane (/sites)", "types": "./types/index.d.ts" }
